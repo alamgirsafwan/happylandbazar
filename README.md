@@ -1,5 +1,3 @@
-# happylandbazar
-A specialized online marketplace platform for buying and selling land, houses, and valuable assets.
 # Happy Land Bazar 🏡✨
 
 **Happy Land Bazar** is a digital marketplace designed to simplify the process of buying and selling real estate and valuable assets. Whether you are looking for a new home, a plot of land, or high-value items, this platform connects buyers and sellers seamlessly.
